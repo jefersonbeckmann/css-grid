@@ -53,6 +53,7 @@ p {
     color: #4b525c;
   }
   .card {
-    background-color: #f5ebe0;
+    background-color: #eee;
+    border: 1px solid #bbb;
   }
 }
